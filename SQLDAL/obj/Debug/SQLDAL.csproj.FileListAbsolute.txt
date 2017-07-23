@@ -1,0 +1,6 @@
+E:\22期\20150621高级\code\高级（二）\SQLDAL\bin\Debug\SQLDAL.dll
+E:\22期\20150621高级\code\高级（二）\SQLDAL\bin\Debug\SQLDAL.pdb
+E:\22期\20150621高级\code\高级（二）\SQLDAL\bin\Debug\IDAL.dll
+E:\22期\20150621高级\code\高级（二）\SQLDAL\bin\Debug\IDAL.pdb
+E:\22期\20150621高级\code\高级（二）\SQLDAL\obj\Debug\SQLDAL.dll
+E:\22期\20150621高级\code\高级（二）\SQLDAL\obj\Debug\SQLDAL.pdb

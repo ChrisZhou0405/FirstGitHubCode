@@ -1,0 +1,14 @@
+E:\22期\20150621高级\code\高级（二）\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+E:\22期\20150621高级\code\高级（二）\Factory\bin\Debug\Factory.dll
+E:\22期\20150621高级\code\高级（二）\Factory\bin\Debug\Factory.pdb
+E:\22期\20150621高级\code\高级（二）\Factory\bin\Debug\IDAL.dll
+E:\22期\20150621高级\code\高级（二）\Factory\bin\Debug\IDAL.pdb
+E:\22期\20150621高级\code\高级（二）\Factory\obj\Debug\Factory.dll
+E:\22期\20150621高级\code\高级（二）\Factory\obj\Debug\Factory.pdb
+E:\2015我的传智\上课文档\训练营\20150621高级\code\高级（二）\Factory\bin\Debug\Factory.dll
+E:\2015我的传智\上课文档\训练营\20150621高级\code\高级（二）\Factory\bin\Debug\Factory.pdb
+E:\2015我的传智\上课文档\训练营\20150621高级\code\高级（二）\Factory\bin\Debug\IDAL.dll
+E:\2015我的传智\上课文档\训练营\20150621高级\code\高级（二）\Factory\bin\Debug\IDAL.pdb
+E:\2015我的传智\上课文档\训练营\20150621高级\code\高级（二）\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+E:\2015我的传智\上课文档\训练营\20150621高级\code\高级（二）\Factory\obj\Debug\Factory.dll
+E:\2015我的传智\上课文档\训练营\20150621高级\code\高级（二）\Factory\obj\Debug\Factory.pdb

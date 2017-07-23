@@ -1,0 +1,6 @@
+E:\22期\20150621高级\code\高级（二）\Compare\bin\Compare.dll.config
+E:\22期\20150621高级\code\高级（二）\Compare\bin\Compare.dll
+E:\22期\20150621高级\code\高级（二）\Compare\bin\Compare.pdb
+E:\22期\20150621高级\code\高级（二）\Compare\obj\Debug\Compare.csprojResolveAssemblyReference.cache
+E:\22期\20150621高级\code\高级（二）\Compare\obj\Debug\Compare.dll
+E:\22期\20150621高级\code\高级（二）\Compare\obj\Debug\Compare.pdb

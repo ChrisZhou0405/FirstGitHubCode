@@ -1,0 +1,6 @@
+E:\22期\20150621高级\code\高级（二）\Global文件\bin\Global文件.dll.config
+E:\22期\20150621高级\code\高级（二）\Global文件\bin\Global文件.dll
+E:\22期\20150621高级\code\高级（二）\Global文件\bin\Global文件.pdb
+E:\22期\20150621高级\code\高级（二）\Global文件\obj\Debug\Global文件.csprojResolveAssemblyReference.cache
+E:\22期\20150621高级\code\高级（二）\Global文件\obj\Debug\Global文件.dll
+E:\22期\20150621高级\code\高级（二）\Global文件\obj\Debug\Global文件.pdb

@@ -1,0 +1,10 @@
+E:\22期\20150621高级\code\高级（二）\IDAL\bin\Debug\IDAL.dll
+E:\22期\20150621高级\code\高级（二）\IDAL\bin\Debug\IDAL.pdb
+E:\22期\20150621高级\code\高级（二）\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+E:\22期\20150621高级\code\高级（二）\IDAL\obj\Debug\IDAL.dll
+E:\22期\20150621高级\code\高级（二）\IDAL\obj\Debug\IDAL.pdb
+E:\2015我的传智\上课文档\训练营\20150621高级\code\高级（二）\IDAL\bin\Debug\IDAL.dll
+E:\2015我的传智\上课文档\训练营\20150621高级\code\高级（二）\IDAL\bin\Debug\IDAL.pdb
+E:\2015我的传智\上课文档\训练营\20150621高级\code\高级（二）\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+E:\2015我的传智\上课文档\训练营\20150621高级\code\高级（二）\IDAL\obj\Debug\IDAL.dll
+E:\2015我的传智\上课文档\训练营\20150621高级\code\高级（二）\IDAL\obj\Debug\IDAL.pdb

@@ -1,0 +1,7 @@
+E:\22期\20150621高级\code\高级（二）\GroupInfoDAL\bin\Debug\DAL.dll
+E:\22期\20150621高级\code\高级（二）\GroupInfoDAL\bin\Debug\DAL.pdb
+E:\22期\20150621高级\code\高级（二）\GroupInfoDAL\bin\Debug\IDAL.dll
+E:\22期\20150621高级\code\高级（二）\GroupInfoDAL\bin\Debug\IDAL.pdb
+E:\22期\20150621高级\code\高级（二）\GroupInfoDAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\22期\20150621高级\code\高级（二）\GroupInfoDAL\obj\Debug\DAL.dll
+E:\22期\20150621高级\code\高级（二）\GroupInfoDAL\obj\Debug\DAL.pdb
