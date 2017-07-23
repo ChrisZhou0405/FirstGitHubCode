@@ -18,11 +18,11 @@ namespace Compare
         {
             if (code == "0102")
             {
-                return "You"+"ME";
+                return "You";
             }
-            if (code == "002")
-            { return "ME"+"US"; }
-            return "Chris Lee" + code;
+            if(code=="002")
+            {return "ME";}
+            return "Chris Lee"+code;
 
         }
     }
