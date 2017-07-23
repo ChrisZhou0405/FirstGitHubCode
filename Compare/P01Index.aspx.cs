@@ -14,7 +14,7 @@ namespace Compare
 
         }
 
-        public string GetShowInfo()
+        public string GetShowInfo(string code)
         {
             return "Chris Lee";
         }
