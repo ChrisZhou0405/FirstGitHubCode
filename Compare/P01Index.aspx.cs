@@ -16,10 +16,12 @@ namespace Compare
 
         public string GetShowInfo(string code)
         {
-            if (code=="01")
+            if (code=="0102")
             {
                 return "You";
             }
+            if(code=="002")
+            {return "ME";}
             return "Chris Lee"+code;
 
         }
