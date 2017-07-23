@@ -1,2 +1,6 @@
 this is the text I modify this code for the test
+<<<<<<< HEAD
 ----Local modify
+=======
+modify online
+>>>>>>> 6b4776d79ebfe25346b3c94d3936a70a8bb9ed02
