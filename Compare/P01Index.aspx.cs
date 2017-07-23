@@ -18,12 +18,17 @@ namespace Compare
         {
             if (code == "0102")
             {
-                return "You"+"ME";
+                return "You"+"WHYME" + "ME";
             }
             if(code=="002")
             {return "ME";}
             return "Chris Lee"+code;
+            
 
+        }
+        pubic void SayHi()
+        {
+           
         }
     }
 }
