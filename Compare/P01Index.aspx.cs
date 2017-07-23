@@ -13,5 +13,10 @@ namespace Compare
         {
 
         }
+
+        public string GetShowInfo()
+        {
+            return "Chris Lee";
+        }
     }
 }
